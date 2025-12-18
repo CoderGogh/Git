@@ -17,7 +17,12 @@
 <---------------------------------------------------->
 
     < SSH로 주소를 등록할 때>
-    : git@github-계정이름:username/repo.git
+    :(형식) user@host:owner/repository.git
+
+    -> user : git
+    -> host : github.com(별칭)
+    -> owner : 깃헙 닉네임
+    -> repository : 레퍼토리 이름.git
 
 git@github.com-codergogh:CoderGogh/Git.git
 git@github.com:CoderGogh/Git.git
