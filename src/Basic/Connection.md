@@ -23,6 +23,3 @@
     -> host : github.com(별칭)
     -> owner : 깃헙 닉네임
     -> repository : 레퍼토리 이름.git
-
-git@github.com-codergogh:CoderGogh/Git.git
-git@github.com:CoderGogh/Git.git
