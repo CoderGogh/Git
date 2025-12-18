@@ -20,3 +20,4 @@
     : git@github-계정이름:username/repo.git
 
 git@github.com-codergogh:CoderGogh/Git.git
+git@github.com:CoderGogh/Git.git
